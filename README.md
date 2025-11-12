@@ -11,3 +11,11 @@ I was very fortunate to have participated in the SQL Hackathon Oct 2025 conducte
 https://physionet.org/content/big-ideas-glycemic-wearable/1.1.2/
 This data gives the glucose measurements, the EDA values, IBI values and the heart rate measurements of 16 patients who wore those devices.First I cleaned and transformed the data,created the ERD for the tables,
 analysed the data through SQL queries which used window functions, stored procedures, functions, triggers, CTE's and other SQL techniques to give meaningful insights. 
+
+3. Datathon Nov 2025
+I was very fortunate to have participated in the Datathon Nov 2025 challenge conducted by Numpy Ninja. Here I was given the GLAM (Glucose Monitoring across Maternity) data from Jaeb centre for research
+•	Designed and developed interactive Power BI dashboards for healthcare data as part of a Datathon challenge.
+•	Performed data cleaning and transformation in Power BI (Sprint 1) using Power Query to prepare patient datasets for analysis
+•	Conducted in-depth analysis of Medical History of patients,maternal and fetal health, glucose and blood pressure trends, PCOS prevalence, and post-delivery outcomes.
+•	Built visual insights on demographics, comorbidities, and health indicators to identify patterns influencing maternal and fetal well-being.
+•	Delivered a data-driven summary of critical health parameters improving interpretability of clinical datasets for decision-making.
