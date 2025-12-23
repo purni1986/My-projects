@@ -22,6 +22,7 @@ I was very fortunate to have participated in the Datathon Nov 2025 challenge con
 
 4. Clinical Analytics Project – Cerebromicrovascular Disease in Elderly with Diabetes- Dec 2025
 Power BI | DAX | Clinical Biomarker Analysis
+
 •	Built an end-to-end clinical analytics dashboard in Power BI focusing on cerebral small vessel disease (cSVD/cMVD) in elderly patients with diabetes.
 •	Modeled and visualized multidomain clinical data: glucose & lipid profiles, inflammatory and immune biomarkers (IL-6, TNF-α, sICAM, sVCAM), BBB integrity markers (MMPs), blood pressure trends, ophthalmological findings, and walking test outcomes.
 •	Developed custom DAX measures for patient-level risk stratification, visit-wise trends, biomarker normalization (z-scores), and subgroup analysis (diabetes, hypertension, smoking status).
