@@ -8,8 +8,8 @@ https://public.tableau.com/app/profile/purnima.chandrasekaran5889/viz/SepsisJulS
 
 2. SQL Hackathon Oct 2025
 I was very fortunate to have participated in the SQL Hackathon Oct 2025 conducted by Numpy Ninja. Here I was a given a raw data of glucose variability index data of patients.
-https://physionet.org/content/big-ideas-glycemic-wearable/1.1.2/
-This data gives the glucose measurements, the EDA values, IBI values and the heart rate measurements of 16 patients who wore those devices.First I cleaned and transformed the data,created the ERD for the tables,
+
+The  dataset gave the glucose measurements, the EDA values, IBI values and the heart rate measurements of 16 patients who wore those devices.First I cleaned and transformed the data,created the ERD for the tables,
 analysed the data through SQL queries which used window functions, stored procedures, functions, triggers, CTE's and other SQL techniques to give meaningful insights. 
 
 3. Datathon Nov 2025
