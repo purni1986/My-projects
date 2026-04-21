@@ -1,3 +1,11 @@
+Machine Learning Project
+
+Diabetes 30 Day Readmission Prediction (Random Forest, Python, scikit learn)
+Tools Used: Python & ML Stack: Pandas, NumPy, scikit learn
+•	Built a full ML pipeline with leakage free preprocessing, includin-g rare category grouping, ICD code mapping, medication change encoding, and aligned one hot encoding.
+•	Converted 3 class readmission labels into a clinically meaning-ful binary target (<30 days vs. >30/NO).
+•	Trained and evaluated Random Forest model achieving 0.75 accuracy and 0.48 recall for minority class
+
 I have worked on the following data analysis projects.
 1. Sepsis Data analysis
 Worked on data visualization of sepsis patients data in tableau to create meaningful insigts based on the demography of sepsis patients, biomarkers which are very important to be analysed,
