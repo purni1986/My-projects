@@ -1,0 +1,274 @@
+patient_id,delivery_mode,cesarean_section_reason,prepartum_maternal_weight,hospital_systolic_blood_pressure,hospital_diastolic_blood_pressure,hospital_hypertension,gestational_diabetes_mellitus,disease_diagnose_during_pregnancy,treatment_disease_pregnancy,chronic_diseases,preeclampsia_record_pregnancy,number_prenatal_appointments,expected_weight_for_the_newborn,mothers_hospital_stay
+"101","","",,,,"","","","","","",,,
+"109","","",,,,"","","","","","",,,
+"115","","",,,,"","","","","","",,,
+"117","","",,,,"","","","","","",,,
+"12","","",,,,"","","","","","",,,
+"120","","",,,,"","","","","","",,,
+"126","","",,,,"","","","","","",,,
+"129","","",,,,"","","","","","",,,
+"136","","",,,,"","","","","","",,,
+"146","","",,,,"","No","","","","No",,,
+"147","","",,,,"","","","","","",,,
+"15","","",,,,"","","","","","",,,
+"155","","",,,,"","Yes","","","","No",,,
+"156","","",,,,"","","","","","",,,
+"158","","",,,,"","","","","","",,,
+"168","","",,,,"","","","","","",,,
+"170","","",,,,"","","","","","",,,
+"178","","",,,,"","","","","","",,,
+"18","Cesarean section","",,,,"","No","","","","No",,,
+"181","","",,,,"","","","","","",,,
+"184","","",,,,"","","","","","",,,
+"185","","",,,,"","","","","","",,,
+"186","","",,,,"","","","","","",,,
+"189","","",,,,"","","","","","",,,
+"190","","",,,,"","","","","","",,,
+"191","","",,,,"","","","","","",,,
+"199","","",,,,"","","","","","",,,
+"20","","",,,,"","","","","","",,,
+"202","","",,,,"","","","","","",,,
+"208","","",,,,"","","","","","",,,
+"21","","",,,,"","","","","","",,,
+"210","","",,,,"","","","","","",,,
+"213","","",,,,"","","","","","",,,
+"227","Vaginal without episiotomy","not applicable",,,,"","No","","","","No",,,
+"229","","",,,,"","","","","","",,,
+"239","","",,,,"","","","","","",,,
+"244","","",,,,"","","","","","",,,
+"245","","",,,,"","","","","","",,,
+"25","","",,,,"","","","","","",,,
+"253","","",,,,"","","","","","",,,
+"255","","",,,,"","No","","","","No",,,
+"269","","",,,,"","","","","","",,,
+"271","","",,,,"","","","","","",,,
+"277","","",,,,"","","","","","",,,
+"283","","",,,,"","","","","","",,,
+"3","","",,,,"","","","","","",,,
+"34","","",,,,"","","","","","",,,
+"35","","",,,,"","","","","","",,,
+"39","","",,,,"","","","","","",,,
+"4","","",,,,"","","","","","",,,
+"41","","",,,,"","","","","","",,,
+"45","","",,,,"","","","","","",,,
+"52","","",,,,"","","","","","",,,
+"54","","",,,,"","","","","","",,,
+"58","","",,,,"","","","","","",,,
+"61","","",,,,"","","","","","",,,
+"62","","",,,,"","","","","","",,,
+"63","","",,,,"","","","","","",,,
+"68","","",,,,"","","","","","",,,
+"73","","",,,,"","","","","","",,,
+"82","","",,,,"","","","","","",,,
+"93","","",,,,"","","","","","",,,
+"94","","",,,,"","","","","","",,,
+"95","","",,,,"","","","","","",,,
+"99","","",,,,"","","","","","",,,
+"125","Vaginal without episiotomy","not applicable",,,,"","No","hepatitis c","","Yes","No",11,3462,1
+"135","Vaginal without episiotomy","not applicable",,,,"","No","NA","","No","No",,3288,1
+"145","Vaginal without episiotomy","not applicable",,,,"","No","NA","","No","No",,2859,1
+"152","Cesarean section","acute fetal distress",,,,"","No","NA","","No","No",10,3288,1
+"157","Vaginal without episiotomy","not applicable",,,,"","No","NA","","No","No",9,3083,1
+"203","Vaginal without episiotomy","not applicable",,,,"","No","NA","","No","Yes",7,3462,1
+"211","Cesarean section","Nonreassuring fetal status (NRFS)",,,,"","No","cholestasis","","Yes","No",8,2859,1
+"273","Vaginal without episiotomy","not applicable",,,,"","No","syphilis","Medication","Yes","No",,3083,1
+"280","Vaginal without episiotomy","not applicable",,,,"","No","NA","","No","No",,,1
+"6","Vaginal without episiotomy","not applicable",,,,"","No","NA","","No","No",5,3288,1
+"74","Cesarean section","eletiva",,,,"","Yes","NA","","No","No",,3462,1
+"1","Cesarean section","Nonreassuring fetal status (NRFS)",,114,70,"No","No","NA","","No","No",11,3462,1
+"100","Cesarean section","cephalopelvic disproportion",,136,76,"Yes","No","anxiety","Fluoxetine","Yes","No",10,3083,1
+"104","Vaginal without episiotomy","not applicable",,110,80,"No","No","NA","","No","No",9,2859,1
+"105","Vaginal without episiotomy","not applicable",,115,71,"No","No","NA","","No","No",10,3288,1
+"106","Vaginal with episiotomy","not applicable",,120,80,"No","No","NA","","No","No",7,1918,3
+"108","Vaginal without episiotomy","not applicable",,126,83,"Yes","No","NA","","No","No",8,3288,1
+"111","Cesarean section","cephalopelvic disproportion",,131,107,"Yes","Yes","endocardite","","Yes","No",9,2859,1
+"118","Vaginal without episiotomy","not applicable",,120,80,"No","No","NA","","No","No",9,3288,1
+"123","Cesarean section","cephalopelvic disproportion",,107,66,"No","No","NA","","No","No",11,3597,1
+"130","Cesarean section","cephalopelvic disproportion",,184,85,"Yes","No","NA","","No","No",5,,1
+"132","Vaginal without episiotomy","not applicable",,143,82,"Yes","No","NA","","No","Yes",,3288,1
+"133","Vaginal without episiotomy","not applicable",,114,54,"No","No","NA","","No","No",,3083,1
+"137","Cesarean section","",,149,87,"Yes","Yes","","","","No",,,
+"139","Vaginal with episiotomy","not applicable",,94,58,"No","No","NA","","No","No",10,3288,1
+"140","Cesarean section","cephalopelvic disproportion",,123,74,"Yes","No","NA","","No","No",,3462,1
+"142","Vaginal without episiotomy","not applicable",,113,52,"No","Yes","GDM","diet","Yes","No",9,3462,1
+"143","Vaginal without episiotomy","not applicable",,143,91,"Yes","No","NA","","No","No",,3083,1
+"144","Vaginal without episiotomy","not applicable",,118,58,"No","Yes","NA","","No","No",,3288,1
+"148","Vaginal without episiotomy","not applicable",,140,85,"Yes","No","NA","","No","No",12,3597,1
+"150","Cesarean section","",,168,108,"Yes","No","NA","","No","Yes",,,
+"159","Vaginal without episiotomy","not applicable",,137,79,"Yes","No","NA","","No","No",,3288,1
+"161","Cesarean section","unsuccessful induction",,110,60,"No","Yes","
+gestational hypothyroidism","","Yes","No",13,2859,1
+"163","Vaginal without episiotomy","not applicable",,123,86,"Yes","No","NA","","No","No",14,3288,1
+"164","Vaginal without episiotomy","not applicable",,145,67,"Yes","No","NA","","No","Yes",,2859,1
+"166","Vaginal without episiotomy","not applicable",,117,78,"No","No","NA","","No","No",5,3597,1
+"176","Cesarean section","previous cesarean section",,142,105,"Yes","No","NA","","No","No",4,3083,1
+"177","Vaginal without episiotomy","not applicable",,100,70,"No","No","NA","","No","No",11,3083,1
+"187","Vaginal without episiotomy","not applicable",,139,80,"Yes","No","NA","","No","No",,3462,1
+"196","Cesarean section","previous cesarean section",,116,69,"No","Yes","TB","Valproic acid","Yes","No",15,2622,1
+"198","Vaginal without episiotomy","not applicable",,110,70,"No","No","NA","","No","No",8,3083,1
+"207","Cesarean section","Nonreassuring fetal status (NRFS)",,96,59,"No","No","NA","","No","No",10,3288,1
+"209","Vaginal without episiotomy","not applicable",,112,68,"No","No","NA","","No","No",,2383,3
+"220","Vaginal without episiotomy","not applicable",,119,79,"No","No","NA","","No","No",,3462,1
+"225","Cesarean section","unsuccessful induction",,165,95,"Yes","No","NA","","No","No",9,3462,1
+"231","Vaginal without episiotomy","not applicable",,90,60,"No","Yes","Gestational Hyptertension","","Yes","No",7,3462,1
+"234","Vaginal without episiotomy","not applicable",,130,70,"Yes","Yes","GDM","diet","Yes","Yes",16,3083,1
+"235","Vaginal with episiotomy","not applicable",,143,93,"Yes","No","hypothyroidism , syphilis","Medication","Yes","Yes",,3288,1
+"237","Vaginal without episiotomy","not applicable",,124,80,"Yes","Yes","NA","","No","No",11,3462,1
+"240","Vaginal without episiotomy","not applicable",,110,70,"No","No","NA","","No","No",12,3597,1
+"246","Vaginal with episiotomy","not applicable",,130,80,"Yes","No","NA","NA","No","No",9,3597,1
+"249","Cesarean section","previous cesarean section",,130,81,"Yes","No","NA","","No","No",12,3462,1
+"250","Vaginal without episiotomy","not applicable",,120,60,"No","No","NA","","No","No",7,3462,1
+"254","Cesarean section","breech presentation",,129,80,"Yes","No","NA","","No","No",,2383,1
+"26","Cesarean section","Nonreassuring fetal status (NRFS)",,126,76,"Yes","No","Cervix dilation 20","","No","No",9,3462,1
+"260","Vaginal without episiotomy","not applicable",,120,80,"No","No","NA","","No","No",10,3597,1
+"263","Vaginal without episiotomy","not applicable",,146,83,"Yes","No","NA","","No","No",10,3462,1
+"267","Cesarean section","Nonreassuring fetal status (NRFS)",,158,89,"Yes","No","NA","","No","No",12,3083,1
+"272","Vaginal","",,108,62,"No","No","NA","","No","No",8,2859,1
+"276","Vaginal without episiotomy","not applicable",,121,63,"Yes","No","NA","","No","No",8,3288,1
+"278","Vaginal with episiotomy","not applicable",,134,75,"Yes","No","depression","Fluoxetine","Yes","No",,3288,1
+"281","Vaginal without episiotomy","not applicable",,132,64,"Yes","No","NA","","No","No",,3288,3
+"282","Vaginal without episiotomy","not applicable",,130,90,"Yes","No","NA","","No","No",10,3462,1
+"32","Vaginal without episiotomy","not applicable",,127,71,"Yes","No","NA","","No","No",,3288,1
+"33","Vaginal without episiotomy","not applicable",,128,76,"Yes","No","UTI","Medication","Yes","No",10,3288,1
+"37","Cesarean section","breech presentation",,122,75,"Yes","No","NA","","No","No",9,3288,1
+"48","Cesarean section","cephalopelvic disproportion",,140,100,"Yes","Yes","NA","","No","Yes",14,3462,1
+"5","Vaginal without episiotomy","not applicable",,140,90,"Yes","No","depression , ITU","","Yes","No",10,3083,1
+"55","Vaginal without episiotomy","not applicable",,130,68,"Yes","No","hypothyroidism","Medication","Yes","No",,3462,1
+"59","Vaginal with episiotomy","not applicable",,120,70,"No","No","NA","","No","No",7,3288,1
+"60","Vaginal with episiotomy","not applicable",,129,74,"Yes","No","NA","","No","No",,3597,1
+"78","Vaginal with episiotomy","not applicable",,110,60,"No","No","NA","","No","No",7,3462,1
+"81","Vaginal without episiotomy","not applicable",,126,75,"Yes","No","VDRL ,","","Yes","No",4,3083,1
+"83","Vaginal with episiotomy","not applicable",,124,72,"Yes","No","NA","","No","No",9,3462,1
+"88","Vaginal without episiotomy","not applicable",,120,80,"No","No","depression , glaucoma , alcoholism","Fluoxetine","Yes","No",12,3288,1
+"9","Cesarean section","previous cesarean section",,130,80,"Yes","Yes","NA","","No","No",,3462,1
+"91","Cesarean section","cephalopelvic disproportion",,126,65,"Yes","Yes","NA","","No","No",,3288,1
+"96","Cesarean section","breech presentation",,119,64,"No","No","hyperthyroidism","Tapazole","Yes","No",,2859,1
+"10","Vaginal without episiotomy","not applicable",79,112,73,"No","No","asthma , depression","","Yes","No",8,3597,1
+"103","Cesarean section","Nonreassuring fetal status (NRFS)",79.3,110,72,"No","No","depression","","Yes","No",9,3462,1
+"107","Vaginal forcipe","NA",84,135,81,"Yes","No","HIV","","Yes","No",7,3597,1
+"119","Cesarean section","Nonreassuring fetal status (NRFS)",70,113,51,"No","Yes","GDM","diet","No","No",6,3597,1
+"167","Vaginal without episiotomy","not applicable",94.6,130,74,"Yes","No","bronchitis itu","Medication","Yes","No",10,,1
+"172","Cesarean section","unsuccessful induction",95.3,,,"","No","Hypertension","Medication","Yes","No",7,,1
+"174","Vaginal without episiotomy","not applicable",89,144,100,"Yes","Yes","Hypertension","","Yes","No",,2859,1
+"175","Vaginal with episiotomy plus forcipe","",58,150,90,"Yes","No","Cognitive deficit - depression,Gestational Hypertension","","Yes","No",8,2859,1
+"180","Vaginal with episiotomy","not applicable",79,148,89,"Yes","No","","","","No",8,,1
+"182","Vaginal without episiotomy","not applicable",73,156,105,"Yes","No","pre-eclampsia","","Yes","Yes",7,2859,1
+"188","Vaginal without episiotomy","not applicable",132,135,73,"Yes","Yes","Strepto , ITU","Medication","Yes","No",8,2383,1
+"195","Vaginal without episiotomy","not applicable",62.5,127,74,"Yes","Yes","GDM","","Yes","No",10,3462,1
+"205","Vaginal without episiotomy","not applicable",73,100,60,"No","No","Asthma","","Yes","No",8,3288,1
+"216","Vaginal without episiotomy","not applicable",79,141,88,"Yes","No","UTI","Medication","Yes","No",12,3083,1
+"219","Vaginal without episiotomy","not applicable",61.3,111,74,"No","No","Pyelonephritis , depression","","Yes","No",4,3083,1
+"22","Vaginal without episiotomy","not applicable",85,130,90,"Yes","No","pre-eclampsia","","Yes","Yes",10,3462,1
+"223","Cesarean section","fetal macrosomia",73,120,76,"No","Yes","DM","","Yes","No",11,,1
+"23","Vaginal without episiotomy","not applicable",67,100,60,"No","No","UTI","","Yes","No",7,,1
+"238","Cesarean section","unsuccessful induction",74.25,125,80,"Yes","Yes","ischemic stroke without sequelae","Aspirin","Yes","No",12,3288,1
+"24","Cesarean section","cephalopelvic disproportion",76.5,109,66,"No","No","lactose intolerance","diet","Yes","No",16,3597,1
+"252","Vaginal without episiotomy","not applicable",85.7,120,80,"No","No","UTI","Medication","Yes","Yes",7,3288,1
+"261","Cesarean section","breech presentation",85,,,"","No","hepatitis b , ITU","Medication","Yes","No",9,3462,1
+"265","Vaginal with episiotomy","not applicable",92,129,79,"Yes","No","hypothyroidism","Medication","Yes","No",14,3462,1
+"287","Cesarean section","previous cesarean section",90,133,69,"Yes","","","","","",7,,1
+"36","Vaginal without episiotomy","not applicable",84,162,104,"Yes","No","Hypertension","","Yes","No",,3083,1
+"42","Vaginal without episiotomy","not applicable",80,139,81,"Yes","No","Gestational thrombocytopenia , gestational hypothyroidism , NT","","No","No",,2859,1
+"46","Vaginal without episiotomy","not applicable",74.6,110,80,"No","No","","","No","No",10,3083,1
+"47","Cesarean section","placentae detachment",111,140,80,"Yes","No","Hypertension","Methyldopa","Yes","No",5,875,3
+"50","Cesarean section","Nonreassuring fetal status (NRFS)",116,128,72,"Yes","No","Asthma","Medication","Yes","No",4,3462,1
+"64","Cesarean section","unsuccessful induction",101,150,90,"Yes","No","asthma , bronchitis , pre-eclampsia","Prednisolone","Yes","Yes",14,3288,1
+"70","Cesarean section","unsuccessful induction",104,140,85,"Yes","No","Pre-eclampsia , has gestational","","Yes","Yes",11,2859,1
+"71","Vaginal without episiotomy","not applicable",134,150,90,"Yes","Yes","Gestational Hyptertension","Medication","Yes","No",7,2622,1
+"76","Vaginal without episiotomy","not applicable",121.6,129,90,"Yes","No","Hypertension","Medication","Yes","Yes",14,3083,1
+"8","Cesarean section","cephalopelvic disproportion",82,118,63,"No","No","depression","Fluoxetine","Yes","No",10,3462,1
+"84","Vaginal without episiotomy","not applicable",95,117,69,"No","No","","","No","No",8,3083,
+"85","Vaginal without episiotomy","not applicable",95,171,85,"Yes","No","Hypertension","","Yes","No",,3288,1
+"87","Cesarean section","maternal acute hypertension",84,140,90,"Yes","No","Hypertension","","Yes","No",,2859,1
+"97","Vaginal forcipe","",77,110,70,"No","No","hypothyroidism","","Yes","No",12,3462,1
+"194","Cesarean section","cephalopelvic disproportion",93.2,120,81,"Yes","Yes","NA","Metformine","No","No",11,3083,1
+"69","Vaginal without episiotomy","not applicable",122,120,90,"Yes","Yes","NA","Insulin","No","No",13,2859,1
+"92","Cesarean section","Nonreassuring fetal status (NRFS)",83,118,76,"No","No","NA","","No","No",11,3597,
+"114","Cesarean section","cephalopelvic disproportion",73,123,82,"Yes","No","NA","","No","No",12,3288,3
+"124","Cesarean section","Nonreassuring fetal status (NRFS)",85.5,109,72,"No","Yes","NA","","No","No",11,3462,1
+"128","Cesarean section by jeopardy","fetal growth retardation",71.5,120,70,"No","No","NA","","No","No",14,3288,1
+"141","Cesarean section","cephalopelvic disproportion",101.35,157,86,"Yes","No","NA","","No","No",8,3288,1
+"154","Cesarean section","Nonreassuring fetal status (NRFS)",84.4,100,58,"No","No","NA","","No","No",12,3288,1
+"17","Cesarean section","",74,123,82,"Yes","No","NA","","No","No",5,3083,1
+"171","Cesarean section","Nonreassuring fetal status (NRFS)",94.8,,,"","No","NA","","No","No",11,3288,1
+"173","Cesarean section","fetal growth retardation",94,114,67,"No","No","NA","","No","No",14,3083,1
+"200","Cesarean section","",71.6,127,82,"Yes","No","NA","","No","No",9,2622,1
+"206","Cesarean section","unsuccessful induction",71,97,61,"No","No","NA","","No","No",9,3083,1
+"228","Vaginal with episiotomy plus forcipe","",58,107,67,"No","No","NA","","No","No",10,2859,1
+"236","Cesarean section","cephalopelvic disproportion",80,112,77,"No","Yes","NA","","No","No",11,3597,1
+"241","Cesarean section","breech presentation",77,97,60,"No","No","NA","","No","No",6,1918,3
+"27","Cesarean section","Nonreassuring fetal status (NRFS)",79,130,84,"Yes","No","NA","","No","No",11,3597,1
+"270","Cesarean section","previous cesarean section",66.1,103,72,"No","No","NA","","No","No",7,3597,1
+"285","Cesarean section","cephalopelvic disproportion",83,123,77,"Yes","No","NA","","No","No",11,3462,1
+"53","Cesarean section","previa",81.6,107,67,"No","No","NA","","No","No",3,3288,1
+"72","Cesarean section","",84,127,70,"Yes","No","NA","","No","No",7,3462,1
+"79","Cesarean section","breech presentation",60.9,109,54,"No","No","NA","","No","No",1,2622,3
+"153","Vaginal with episiotomy","not applicable",100,149,105,"Yes","No","NA","","No","Yes",,3462,1
+"160","Vaginal with episiotomy","not applicable",70,100,60,"No","No","NA","","No","No",10,3288,1
+"192","Vaginal with episiotomy","not applicable",101.3,117,73,"No","No","NA","","No","No",6,3288,1
+"279","Vaginal with episiotomy","not applicable",80.2,126,70,"Yes","No","NA","","No","No",12,3083,1
+"51","Vaginal with episiotomy","not applicable",86.2,110,67,"No","No","NA","","No","No",7,3288,1
+"102","Vaginal without episiotomy","not applicable",82,110,80,"No","No","NA","","No","No",2,,1
+"110","Vaginal without episiotomy","not applicable",86,108,73,"No","No","NA","","No","No",12,,1
+"112","Vaginal without episiotomy","not applicable",92,133,87,"Yes","No","NA","","No","No",10,3288,1
+"113","Vaginal without episiotomy","not applicable",97,123,74,"Yes","No","NA","","No","No",9,3462,1
+"121","Vaginal without episiotomy","not applicable",74,133,88,"Yes","No","NA","","No","No",,3288,1
+"122","Vaginal without episiotomy","not applicable",84,135,80,"Yes","No","NA","","No","No",9,3597,1
+"127","Vaginal without episiotomy","not applicable",64.8,124,80,"Yes","No","NA","","No","No",3,3288,1
+"13","Vaginal without episiotomy","not applicable",78,105,78,"No","No","NA","","No","No",10,3288,1
+"131","Vaginal without episiotomy","not applicable",85.4,110,76,"No","No","NA","","No","Yes",9,3597,1
+"134","Vaginal without episiotomy","not applicable",93,132,66,"Yes","No","NA","","No","No",12,3288,1
+"138","Vaginal without episiotomy","not applicable",95.1,98,70,"No","No","NA","","No","No",10,3597,1
+"14","Vaginal without episiotomy","not applicable",99,120,70,"No","No","NA","","No","No",8,3288,1
+"151","Vaginal without episiotomy","not applicable",82,119,68,"No","No","NA","","No","No",10,3462,1
+"165","Vaginal without episiotomy","not applicable",130,132,78,"Yes","No","NA","","No","No",8,3462,1
+"169","Vaginal without episiotomy","not applicable",75.4,109,66,"No","No","NA","","No","No",11,3597,1
+"179","Vaginal without episiotomy","not applicable",77,117,69,"No","No","NA","","No","No",14,3288,1
+"183","Vaginal without episiotomy","not applicable",85,127,74,"Yes","No","NA","","No","No",9,3083,1
+"19","Vaginal without episiotomy","not applicable",54,100,70,"No","No","NA","","No","No",9,3288,1
+"193","Vaginal without episiotomy","not applicable",71,130,80,"Yes","No","NA","","No","No",,3597,1
+"197","Vaginal without episiotomy","not applicable",68,151,76,"Yes","No","NA","","No","No",10,3083,1
+"2","Vaginal without episiotomy","not applicable",50.7,103,76,"No","No","NA","","No","No",10,2622,
+"201","Vaginal without episiotomy","not applicable",79,127,82,"Yes","No","NA","","No","No",10,3462,1
+"204","Vaginal without episiotomy","not applicable",78,129,78,"Yes","No","NA","","No","No",0,2622,1
+"212","Vaginal without episiotomy","not applicable",59.8,137,83,"Yes","No","NA","","No","No",3,3288,1
+"214","Vaginal without episiotomy","not applicable",63,129,79,"Yes","No","NA","","","No",4,3462,1
+"215","Vaginal without episiotomy","not applicable",95,110,70,"No","No","NA","","No","No",21,3083,1
+"217","Vaginal without episiotomy","not applicable",77,127,85,"Yes","No","NA","","No","No",7,3597,1
+"218","Vaginal without episiotomy","not applicable",68.5,110,70,"No","No","NA","","No","No",10,3288,1
+"221","Vaginal without episiotomy","not applicable",68.8,139,89,"Yes","No","NA","","No","No",,3288,1
+"224","Vaginal without episiotomy","not applicable",85,120,80,"No","No","NA","","No","No",11,3462,1
+"226","Vaginal without episiotomy","not applicable",83.4,138,67,"Yes","No","NA","","No","No",11,3462,1
+"230","Vaginal without episiotomy","not applicable",79,108,69,"No","No","NA","","No","No",12,3462,1
+"232","Vaginal without episiotomy","not applicable",76.9,104,66,"No","No","NA","","No","No",11,3462,1
+"233","Vaginal without episiotomy","not applicable",61,113,68,"No","No","NA","","No","No",14,3288,1
+"242","Vaginal without episiotomy","not applicable",93,110,70,"No","No","NA","","No","No",10,3597,1
+"243","Vaginal without episiotomy","not applicable",62.4,128,80,"Yes","No","NA","","No","No",9,3462,1
+"247","Vaginal without episiotomy","not applicable",92.5,122,82,"Yes","No","NA","","No","No",11,3462,1
+"248","Vaginal without episiotomy","not applicable",74.9,115,73,"No","No","NA","","No","No",9,2859,1
+"251","Vaginal without episiotomy","not applicable",78.8,122,86,"Yes","No","NA","","No","",9,3288,1
+"256","Vaginal without episiotomy","not applicable",90,124,80,"Yes","No","NA","","No","No",10,3288,1
+"258","Vaginal without episiotomy","not applicable",76.8,138,89,"Yes","No","NA","","No","No",10,3083,
+"259","Vaginal without episiotomy","not applicable",72,120,70,"No","No","NA","","No","No",11,3462,1
+"262","Vaginal without episiotomy","not applicable",88,125,84,"Yes","No","NA","","No","No",10,2859,1
+"264","Vaginal without episiotomy","not applicable",90,94,56,"No","No","NA","","No","No",12,3462,1
+"266","Vaginal without episiotomy","not applicable",65,112,70,"No","No","NA","","No","No",13,3288,1
+"268","Vaginal without episiotomy","not applicable",73,120,80,"No","No","NA","","No","No",4,2859,1
+"274","Vaginal without episiotomy","not applicable",66,124,78,"Yes","No","NA","","No","No",15,2622,3
+"275","Vaginal without episiotomy","not applicable",77,120,64,"No","No","NA","","No","No",8,3288,1
+"28","Vaginal without episiotomy","not applicable",63.5,118,77,"No","No","NA","","No","No",3,3462,1
+"286","Vaginal without episiotomy","not applicable",89,112,84,"Yes","No","NA","","No","No",5,3288,1
+"29","Vaginal without episiotomy","not applicable",57,106,61,"No","No","NA","","No","No",4,,1
+"38","Vaginal without episiotomy","not applicable",79,115,70,"No","No","NA","","No","No",10,3083,1
+"40","Vaginal without episiotomy","not applicable",68,101,59,"No","No","NA","","No","No",9,3462,1
+"43","Vaginal without episiotomy","not applicable",84.5,103,76,"No","No","NA","","No","No",13,3462,1
+"44","Vaginal without episiotomy","not applicable",54,103,72,"No","No","NA","","No","No",,3288,1
+"49","Vaginal without episiotomy","not applicable",74.5,90,80,"No","No","NA","","No","No",5,1918,1
+"56","Vaginal without episiotomy","not applicable",105.5,119,73,"No","No","NA","","No","No",9,3083,3
+"57","Vaginal without episiotomy","not applicable",85,121,77,"Yes","No","NA","","No","No",10,3597,1
+"65","Vaginal without episiotomy","not applicable",94.3,125,80,"Yes","No","NA","","No","No",2,3462,1
+"67","Vaginal without episiotomy","not applicable",98.5,141,80,"Yes","No","NA","","No","No",8,3083,1
+"7","Vaginal without episiotomy","not applicable",89,134,70,"Yes","No","NA","","No","No",7,2622,1
+"75","Vaginal without episiotomy","not applicable",87,128,64,"Yes","No","NA","","No","No",10,2622,1
+"77","Vaginal without episiotomy","not applicable",52,114,77,"No","No","NA","","No","No",7,2859,1
+"80","Vaginal without episiotomy","not applicable",70,110,61,"No","No","NA","","No","No",10,3462,1
